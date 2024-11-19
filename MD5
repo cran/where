@@ -1,0 +1,14 @@
+ee6b695ff5ba177124de7cec924814ab *DESCRIPTION
+2739ebf3030243fdf79e49ebee0b8356 *LICENSE
+2f98f0d7d25b9a436af9cce96080eac9 *NAMESPACE
+184050758d19d8360426cc495f00015b *R/run.R
+8d24a75d079ff8b32c9d2f37f9178c85 *build/vignette.rds
+8e1e692dc1b481441842e8dcbb269885 *inst/doc/do-ing.R
+f9fed0dce2284e4707021b28920432c2 *inst/doc/do-ing.Rmd
+2fe1fc5de2da4f142c7829748e439f42 *inst/doc/do-ing.html
+a9bb4724d127707cf37f8036f8afb0e3 *man/dot-.Rd
+0588c654282e71a2c7b47b663d179e3b *man/grapes-with-grapes.Rd
+c12e920b69e0eebf2a4411eb684c3483 *man/run.Rd
+34d73ffc5d5599f57e06fe8a05ec68c1 *tests/testthat.R
+a190b96f4c55c519affff741a5bd33de *tests/testthat/test-do.R
+f9fed0dce2284e4707021b28920432c2 *vignettes/do-ing.Rmd
